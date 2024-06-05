@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 yoru</h1>
-<h3 align="center">passionate programmer specializing in data analysis and image processing</h3>
+<h1 align="left">Hi 👋 yoru</h1>
+<h3 align="left">passionate programmer specializing in data analysis and image processing</h3>
 
 - 🔭 I’m currently working on [Learning Agency Lab - Automated Essay Scoring 2.0](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2)
 
