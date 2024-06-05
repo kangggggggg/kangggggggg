@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Learning Agency Lab - Automated Essay Scoring 2.0](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2)
 
-- 🌱 I’m currently learning **AWS Sagemaker**
+- 🌱 I’m currently learning **Amazon Sagemaker**
 
 - 👯 I’m looking to collaborate on [CJ AI Challenge](https://recruit.cj.net/recruit/ko/recruit/event/event_detail.fo?fair_id=44)
 
